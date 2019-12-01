@@ -3,13 +3,19 @@
 
 Jede gute Hacker Genossenschaft braucht T-Shirts. Daher gibt es hier ein git Repo in der die bisherigen Siebdruck Siebdruck-motive gesammelt werden.
 
-![WTF LOGO](export/wtf-eg.svg.png "WTF e.G. Logo")
+![WTF Einhornlogo](export/einhornlogo_wtf.svg.png "WTF e.g. einhornlogo")
 
 ![WTF Textlogo](export/textlogo_wtf.svg.png "WTF e.G. Text Logo")
 
-![HACKER EG](export/logo-mit-schrift-auf-orange.svg.png "Hacker eG Logo")
 
-![HACKER EG CCCamp](export/logo-mit-schrift-cccamp19-edition.svg.png "Hacker eG CCCamp19 Logo")
+-------------------------
+
+
+![OLD WTF LOGO](export/wtf-eg.svg.png "OLD WTF e.G. Logo")
+
+![OLD HACKER EG](export/logo-mit-schrift-auf-orange.svg.png "OLD Hacker eG Logo")
+
+![OLD HACKER EG CCCamp](export/logo-mit-schrift-cccamp19-edition.svg.png "OLD Hacker eG CCCamp19 Logo")
 
 Selbstverständlich erhebt dieses Repo keinen anspruch auf vollständigkeit.
 
