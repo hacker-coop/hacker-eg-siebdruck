@@ -17,7 +17,7 @@ Jede gute Hacker Genossenschaft braucht T-Shirts. Daher gibt es hier ein git Rep
 
 ![OLD HACKER EG CCCamp](export/logo-mit-schrift-cccamp19-edition.svg.png "OLD Hacker eG CCCamp19 Logo")
 
-Selbstverständlich erhebt dieses Repo keinen anspruch auf vollständigkeit.
+Selbstverständlich erhebt dieses Repo keinen Anspruch auf Vollständigkeit.
 
 Fragen rund um Siebdruck erklärt euch [L3D](https://chaos.social/@l3d) bei einem Tschunk bestimmt gerne!
 
